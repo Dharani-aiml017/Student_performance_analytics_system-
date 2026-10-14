@@ -50,25 +50,3 @@ The program summarizes the student dataset and makes it easier to review individ
 
 ## 8. GitHub Repository
 https://github.com/Dharani-aiml017/Student_performance_analytics_system
-
-## Project Files
-- `main.py` — main program.
-- `students.csv` — sample student dataset.
-- `requirements.txt` — required Python packages.
-- `Project_Documentation.pdf` — separate documentation prepared using the EWB assessment sections.
-
-## How to Run
-1. Install Python 3.9 or later.
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the program:
-
-   ```bash
-   python main.py
-   ```
-
-Keep `main.py` and `students.csv` in the same folder.
